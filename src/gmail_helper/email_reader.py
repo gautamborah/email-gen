@@ -9,8 +9,8 @@ from googleapiclient.discovery import build
 # If modifying scopes, delete the token.json
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
-cred_file = "./src/gmail-helper/client_secret_74881337203-5vi2ppo5f84elttgplh3uvicr4e321i1.apps.googleusercontent.com.json"
-
+# cred_file = "./src/gmail-helper/client_secret_74881337203-5vi2ppo5f84elttgplh3uvicr4e321i1.apps.googleusercontent.com.json"
+cred_file = "/Users/gautamborah/ai-learn/repo/email-gen/src/gmail_helper/client_secret_74881337203-a7u57bht9tcab1b6ujjf0d4kois9tqd9.apps.googleusercontent.com.json"
 def main():
     creds = None
     # Load saved token

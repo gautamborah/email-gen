@@ -27,7 +27,7 @@ class GmailReader:
 
     def _load_credentials(self):
         """Load or generate Gmail API credentials."""
-        cred_path = "./src/gmail-helper/client_secret_74881337203-5vi2ppo5f84elttgplh3uvicr4e321i1.apps.googleusercontent.com.json"
+        cred_path = "./src/gmail_helper/client_secret_74881337203-a7u57bht9tcab1b6ujjf0d4kois9tqd9.apps.googleusercontent.com.json"
         token_path = "token.json"
 
         # Load credentials from token.json if exists
