@@ -209,4 +209,5 @@ __marimo__/
 
 .DS_Store
 token.json
-src/gmail-helper/client_secret_74881337203-5vi2ppo5f84elttgplh3uvicr4e321i1.apps.googleusercontent.com.json
+
+src/gmail_helper/*.json
